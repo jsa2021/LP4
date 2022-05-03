@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/LP4/static/css/main.6ced9f49.css",
-    "main.js": "/LP4/static/js/main.bdabebe0.js",
+    "main.css": "/LP4/static/css/main.1f9402d5.css",
+    "main.js": "/LP4/static/js/main.8a5164d8.js",
     "static/media/sports.png": "/LP4/static/media/sports.c6f705a72be2c299032b.png",
-    "static/media/people (2).png": "/LP4/static/media/people (2).d90b371a33ce984bd9ea.png",
-    "static/media/clothing.png": "/LP4/static/media/clothing.2953990c97aa50be0c22.png",
-    "static/media/ecommerce.png": "/LP4/static/media/ecommerce.522da76635d52117102b.png",
-    "static/media/sidebar.png": "/LP4/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/7.jpg": "/LP4/static/media/7.500e0c6111f82242905e.jpg",
+    "static/media/2.jpg": "/LP4/static/media/2.3c90ab1bb83f1808f724.jpg",
+    "static/media/1.jpg": "/LP4/static/media/1.7cab1877963421727cff.jpg",
+    "static/media/4.jpg": "/LP4/static/media/4.dc4c2354c532af28237e.jpg",
+    "static/media/8.jpg": "/LP4/static/media/8.0b10fa54eb11c5019ed8.jpg",
+    "static/media/6.jpg": "/LP4/static/media/6.135c5b55f78294436c83.jpg",
+    "static/media/3.jpg": "/LP4/static/media/3.b08d8046219aa71064bb.jpg",
+    "static/media/5.jpg": "/LP4/static/media/5.7523c9c343466e6c0026.jpg",
     "static/media/PDF PRUEBA.pdf": "/LP4/static/media/PDF PRUEBA.c74bf8d5a27d3b1683a4.pdf",
-    "static/media/musicapp.png": "/LP4/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/sum.jpg": "/LP4/static/media/sum.4d6a5e77c515f94ff55b.jpg",
-    "static/media/hoc.png": "/LP4/static/media/hoc.e6af51fc04c57ae67096.png",
     "static/media/reaccionar.png": "/LP4/static/media/reaccionar.d2d4c7bc8716b38c3361.png",
     "static/media/starbucks.png": "/LP4/static/media/starbucks.435277fcbdcd596666c6.png",
     "index.html": "/LP4/index.html",
-    "main.6ced9f49.css.map": "/LP4/static/css/main.6ced9f49.css.map",
-    "main.bdabebe0.js.map": "/LP4/static/js/main.bdabebe0.js.map"
+    "main.1f9402d5.css.map": "/LP4/static/css/main.1f9402d5.css.map",
+    "main.8a5164d8.js.map": "/LP4/static/js/main.8a5164d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ced9f49.css",
-    "static/js/main.bdabebe0.js"
+    "static/css/main.1f9402d5.css",
+    "static/js/main.8a5164d8.js"
   ]
 }
